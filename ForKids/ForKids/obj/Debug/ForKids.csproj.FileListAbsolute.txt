@@ -1,0 +1,10 @@
+C:\Users\Lenovo\source\repos\ForKids\ForKids\bin\Debug\ForKids.exe.config
+C:\Users\Lenovo\source\repos\ForKids\ForKids\bin\Debug\ForKids.exe
+C:\Users\Lenovo\source\repos\ForKids\ForKids\bin\Debug\ForKids.pdb
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.Form1.resources
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.exe
+C:\Users\Lenovo\source\repos\ForKids\ForKids\obj\Debug\ForKids.pdb
